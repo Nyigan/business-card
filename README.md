@@ -1,6 +1,3 @@
 # # Simple business card design and uplaoded to Netlify
-Here is the link: 
+- [Here's the Link:](https://cute-cocada-8a60a2.netlify.app/)
 
-- [Our courses](https://scrimba.com/allcourses)
-
-Happy Coding!
